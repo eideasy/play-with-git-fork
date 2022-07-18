@@ -7,3 +7,4 @@ A personal repo to test out various features of git
 4. Change 4-2
 5. Change 5-2
 6. Change 6
+7. Change 7
