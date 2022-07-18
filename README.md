@@ -6,3 +6,7 @@ A personal repo to test out various features of git
 3. Change 3
 4. Change 4
 5. Change 5
+6. Change 6
+7. Change 7
+8. Change 8
+9. Change 9
